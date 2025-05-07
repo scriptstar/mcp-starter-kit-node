@@ -47,8 +47,8 @@ quick-start/
 1.  **Clone the repository (if you haven't already):**
 
     ```bash
-    git clone <your-repo-url>
-    cd quick-start
+    git clone https://github.com/scriptstar/mcp-starter-kit-node.git
+    cd mcp-starter-kit-node
     ```
 
 2.  **Install dependencies:**
